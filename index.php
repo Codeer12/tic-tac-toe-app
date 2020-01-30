@@ -3,7 +3,7 @@
 <body>
 
 <?php
-echo "<script>window.location.href = 'https://se-gaming.tk'</script>";
+echo "<script>window.location.href = 'index.html'</script>";
 ?> 
 
 </body>
